@@ -1,0 +1,12 @@
+TideSQLite.MainActivity, TideSQLite;md579308b4edcbd545e39ef2cd086ea70a9.MainActivity
+TideSQLite.MainActivity, TideSQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md579308b4edcbd545e39ef2cd086ea70a9.MainActivity
+TideSQLite.MainActivity;md579308b4edcbd545e39ef2cd086ea70a9.MainActivity
+tidesqlite.MainActivity;md579308b4edcbd545e39ef2cd086ea70a9.MainActivity
+TideSQLite.TideAdapter, TideSQLite;md579308b4edcbd545e39ef2cd086ea70a9.TideAdapter
+TideSQLite.TideAdapter, TideSQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md579308b4edcbd545e39ef2cd086ea70a9.TideAdapter
+TideSQLite.TideAdapter;md579308b4edcbd545e39ef2cd086ea70a9.TideAdapter
+tidesqlite.TideAdapter;md579308b4edcbd545e39ef2cd086ea70a9.TideAdapter
+TideSQLite.TideListActivity, TideSQLite;md579308b4edcbd545e39ef2cd086ea70a9.TideListActivity
+TideSQLite.TideListActivity, TideSQLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md579308b4edcbd545e39ef2cd086ea70a9.TideListActivity
+TideSQLite.TideListActivity;md579308b4edcbd545e39ef2cd086ea70a9.TideListActivity
+tidesqlite.TideListActivity;md579308b4edcbd545e39ef2cd086ea70a9.TideListActivity

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TideSQLite", "TideSQLite\TideSQLite.csproj", "{DD567EDE-6602-4CAD-8AD9-90C6AA7F1EAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteDBCreator", "SQLiteDBCreator\SQLiteDBCreator.csproj", "{7362BF37-E45C-4CFE-90AE-63DCF16263D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{DFB864DF-C0A9-4DD6-BD13-6EF74351D1FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD567EDE-6602-4CAD-8AD9-90C6AA7F1EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD567EDE-6602-4CAD-8AD9-90C6AA7F1EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD567EDE-6602-4CAD-8AD9-90C6AA7F1EAD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DD567EDE-6602-4CAD-8AD9-90C6AA7F1EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD567EDE-6602-4CAD-8AD9-90C6AA7F1EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD567EDE-6602-4CAD-8AD9-90C6AA7F1EAD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7362BF37-E45C-4CFE-90AE-63DCF16263D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7362BF37-E45C-4CFE-90AE-63DCF16263D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7362BF37-E45C-4CFE-90AE-63DCF16263D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7362BF37-E45C-4CFE-90AE-63DCF16263D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB864DF-C0A9-4DD6-BD13-6EF74351D1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB864DF-C0A9-4DD6-BD13-6EF74351D1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB864DF-C0A9-4DD6-BD13-6EF74351D1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB864DF-C0A9-4DD6-BD13-6EF74351D1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

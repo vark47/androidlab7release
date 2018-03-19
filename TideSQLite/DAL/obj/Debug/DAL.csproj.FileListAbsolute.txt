@@ -1,0 +1,5 @@
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\DAL\bin\Debug\DAL.dll
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\DAL\bin\Debug\DAL.pdb
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\DAL\obj\Debug\DAL.dll
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\DAL\obj\Debug\DAL.pdb

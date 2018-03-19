@@ -1,0 +1,9 @@
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\SQLiteDBCreator\bin\Debug\SQLiteDBCreator.exe.config
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\SQLiteDBCreator\bin\Debug\SQLiteDBCreator.exe
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\SQLiteDBCreator\bin\Debug\SQLiteDBCreator.pdb
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\SQLiteDBCreator\bin\Debug\DAL.dll
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\SQLiteDBCreator\bin\Debug\DAL.pdb
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\SQLiteDBCreator\obj\Debug\SQLiteDBCreator.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\SQLiteDBCreator\obj\Debug\SQLiteDBCreator.csproj.CoreCompileInputs.cache
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\SQLiteDBCreator\obj\Debug\SQLiteDBCreator.exe
+C:\Users\Austin\Desktop\Lab 7\TideSQLite\SQLiteDBCreator\obj\Debug\SQLiteDBCreator.pdb
